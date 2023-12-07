@@ -1,0 +1,63 @@
+.slide {
+  width: 100%;
+
+}
+
+.rate {
+
+  background: linear-gradient(270deg, #E5E7EF 16.04%, #FDEFEF 74.96%);
+
+}
+
+.rates {
+  padding: 40px 0px;
+  color: hsl(232, 38%, 40%);
+}
+
+.atm-abs {
+  right: 150px;
+  top: 150px;
+}
+
+.atm-abs1 {
+  right: 250px;
+  top: 150px;
+  font-size: 40px;
+}
+
+.deals {
+  bottom: 10px;
+  left: 25px;
+
+}
+
+.deals:hover {
+  bottom: 20px;
+}
+
+.acc1 {
+  background-color: lightblue;
+  padding: 25px;
+
+}
+
+#acc {
+  border-radius: 10px;
+}
+
+.pro-img:hover {
+  transition: transform 0.6s ease-in-out;
+  transform: scale(1.05);
+
+  border-radius: 10px;
+  /* box-shadow: 5px -5px 2px lightslategray ; */
+  overflow: hidden;
+}
+
+.last {
+  background-color: #f4f5fc;
+}
+
+.foot {
+  color: gray;
+}

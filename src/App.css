@@ -1,0 +1,23 @@
+.header {
+  background: linear-gradient(270deg, #8A676D 1.87%, #924B57 31.58%, #4B4A6C 59.77%, #262343 98.54%);
+  /* position: sticky;
+  top: 0px; */
+}
+
+.logo {
+  background-color: white;
+  border-radius: 0px 50px 50px 0px;
+  padding: 15px 20px 15px 90px;
+  margin-right: 30px;
+
+}
+
+#dropdown {
+  padding: 35px 0px;
+  overflow: hidden;
+}
+
+.navbar .dropdown:hover .dropdown-menu {
+  display: block;
+  z-index: 2;
+}
